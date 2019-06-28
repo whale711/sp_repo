@@ -17,7 +17,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 
 public class Item {
-      //加了注释啦啦啦
+      //加了注释啦
       private Integer id;
 
       private String name;
